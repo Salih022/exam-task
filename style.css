@@ -15,6 +15,7 @@
     display: flex;
     justify-content: center;
     align-items: center;
+    position: fixed;
 }
 .smallstar{
     width: 14.27px;
@@ -38,6 +39,8 @@ background-color: #ADC9A6;
     height: 100px;
     display: flex;
     background-color: #153C3C;
+    position: fixed;
+    top: 40px;
 }
 .line1{
     width:19.55px;
@@ -79,7 +82,7 @@ ul{
     background-color: #153C3C;
     cursor: pointer;
 }
-ol{
+a{
 font-family: 'roboto';
 height: 24px;
 left: 21.74%;
