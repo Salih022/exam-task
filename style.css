@@ -77,7 +77,7 @@ ul{
     gap: 50px;
     margin-top: 38px;
     background-color: #153C3C;
-
+    cursor: pointer;
 }
 ol{
 font-family: 'roboto';
@@ -90,7 +90,7 @@ line-height: 24px;
 letter-spacing: 0.32px;
 color: #DDE4E4;
 background-color: #153C3C;
-
+cursor: pointer;
 }
 .buy{
 width: 106px;
@@ -108,6 +108,7 @@ font-style: normal;
 font-weight: 400;
 margin-left: 800px;
 margin-top: 30px;
+cursor: pointer;
 }
 .uikit{
 background: #F3F7F2;
@@ -122,6 +123,7 @@ border-radius: 4px;
 border: none;
 margin-left: 42%;
 margin-top: 108px;
+cursor: pointer;
 }
 .bigtxt{
 font-family: 'roboto';
@@ -179,6 +181,7 @@ margin-top: 19px;
     font-weight: 400;
     text-align: center;
     border-radius: 4px;
+    cursor: pointer;
     }
     .discover{
         font-family: 'roboto';
@@ -199,6 +202,7 @@ margin-top: 19px;
         margin-left: 190px;
         margin-top: 99px;
         padding: 40px;
+        cursor: pointer;
     }
     .landingone p {
     font-family: 'roboto';
@@ -223,6 +227,8 @@ margin-top: 19px;
         margin-left: 740px;
         margin-top: -612px;
         padding: 40px;
+        cursor: pointer;
+
     }
     .landingone2 p {
     font-family: 'roboto';
@@ -242,6 +248,8 @@ margin-top: 19px;
         margin-left: 190px;
         margin-top: 40px;
         padding: 40px;
+        cursor: pointer;
+
     }
     .landingone3 p {
     font-family: 'roboto';
@@ -269,6 +277,7 @@ margin-top: 19px;
         text-align: center;
         text-transform: uppercase;
         color: #153C3C;
+        cursor: pointer;
     }
     .companyy{
         font-family: 'roboto';  
@@ -290,6 +299,7 @@ margin-top: 19px;
         margin-left: 190px;
         margin-top: 40px;
         padding: 40px;
+        cursor: pointer;
     }
     .landingone4 p {
     font-family: 'roboto';
@@ -380,3 +390,415 @@ margin-top: 19px;
         cursor: pointer;
         margin-top: 119px;
     }
+    .additional{
+        font-family: 'roboto';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 48px;
+        line-height: 64px;
+        text-align: center;
+        letter-spacing: 2.24px;
+        color: #172426;
+        margin-top: 13px;
+    }
+    .bigbutton{
+        font-family: 'roboto';
+        width: 510px;
+        height: 120px;
+        background: #F2F8F8;
+        border-radius: 12px;
+        border: none;
+        margin-left: 190px;
+        margin-top: 99px;
+        display: flex;
+        padding: 50px;
+        font-style: normal;
+        font-weight: 400;
+        font-size: 19.1px;
+        line-height: 32px;
+        letter-spacing: 0.96px;
+        color: #172426;
+        cursor: pointer;
+    }
+    .right{
+        margin-left: 300px;
+    }
+    .bigbutton2{
+        font-family: 'roboto';
+        width: 510px;
+        height: 120px;
+        background: #F2F8F8;
+        border-radius: 12px;
+        border: none;
+        margin-left: 190px;
+        display: flex;
+        padding: 50px;
+        margin-left: 740px;
+        margin-top: -120px;
+        font-style: normal;
+        font-weight: 400;
+        font-size: 21px;
+        line-height: 32px;        
+        letter-spacing: 0.96px;
+        color: #172426;
+        cursor: pointer;
+    }
+    .bigbutton3{
+        font-family: 'roboto';
+        width: 510px;
+        height: 120px;
+        background: #F2F8F8;
+        border-radius: 12px;
+        border: none;
+        margin-left: 190px;
+        margin-top: 40px;
+        display: flex;
+        padding: 50px;
+        font-style: normal;
+        font-weight: 400;
+        font-size: 19.1px;
+        line-height: 32px;
+        letter-spacing: 0.96px;
+        color: #172426;
+        cursor: pointer;
+    }
+    .bigbutton22{
+        font-family: 'roboto';
+        width: 510px;
+        height: 120px;
+        background: #F2F8F8;
+        border-radius: 12px;
+        border: none;
+        margin-left: 740px;
+        margin-top: -120px;
+        font-style: normal;
+        font-weight: 400;
+        font-size: 21px;
+        line-height: 32px;        
+        letter-spacing: 0.96px;
+        color: #172426;
+        cursor: pointer;
+        position: absolute;
+    }
+    .bigbutton22 .right{
+        margin-left: 150px;
+        margin-top: -24px;
+        position: absolute;
+    }
+    .forgottt{
+        margin-right: 240px;
+        display: flex;
+        align-items: center;
+        margin-left: 46px;
+        margin-top: 20px;
+    }
+    .bigbutton3 p{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+    }
+    .bigbutton3 .right2{
+        margin-left: 375px;
+    }
+    .asidee{
+        background-image: url(./img/img19.png);
+        width: 1060px;
+        height: 304px;
+        border-radius: 8px;
+        border: none;
+        margin-top: 120px;
+        position: relative;
+        margin-left: 190px;
+    }
+    .ppp{
+        font-family: 'roboto';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 36px;
+        line-height: 48px;
+        letter-spacing: 1.6px;
+        color: #FFFFFF;
+        margin-left: 64px;
+        margin-top: 63px;
+        position: absolute;
+    }
+    .ppp {
+font-family: 'roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 40px;
+line-height: 48px;
+color: #ADC9A6;
+margin-top: 63px;
+margin-left: 64px;
+    }
+    .builddd{
+        font-family: 'roboto';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 12px;
+        line-height: 24px;
+        letter-spacing: 0.28px;
+        color: #DDE4E4;
+        margin-left: 146px;
+        position: absolute;
+        margin-top: 192px;
+        margin-left: 146px;
+    }
+    .price79{
+    font-family: 'roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 40px;
+    line-height: 48px;
+    color: #ADC9A6;
+    margin-top: 191px;
+    margin-left: 64px;
+    position: absolute;
+    }
+    .purchase{
+        height: 48px;
+        width: 142px;
+        background: #84A17D;
+        border-radius: 4px;
+        border: none;
+        font-family: 'roboto';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 13px;
+        line-height: 24px;
+        text-align: center;
+        color: #FFFFFF;
+        margin-left: 294px;
+        margin-top: 192px;
+        cursor: pointer;
+    }
+    footer{
+        width: 100%;
+        height: 723px;
+        background-color: #153C3C;
+        position: relative;
+        margin-top: 100px;
+    }
+    .lastbuildtxt{
+        font-family: 'roboto';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 34px;
+        line-height: 48px;
+        letter-spacing: 1.6px;
+        color: #FFFFFF;
+        position: absolute;
+        margin-top: 99px;
+        margin-left: 190px;
+    }
+    .lastproducttxt{
+        font-family: 'roboto';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 38px;
+        line-height: 48px;
+        letter-spacing: 1.6px;
+        color: #FFFFFF;
+        position: absolute;
+        margin-top: 147px;
+        margin-left: 190px;
+    }
+    .lastalign{
+    font-family: 'Roboto';
+    font-style: normal;       
+    font-weight: 400;
+    font-size: 36px;
+    line-height: 48px;
+    letter-spacing: 1.6px;
+    color: #FFFFFF;
+    position: absolute;
+    margin-top: 147px;
+    margin-left: 419px;
+    }
+    .lastimg{
+        width: 88px;
+        margin-left: 420px;
+        height: 40px;
+        margin-top: 158px;
+        position: absolute;
+    }
+    .lasttxt{
+        font-family: 'roboto';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 15px;
+        line-height: 28px;
+        letter-spacing: 0.32px;
+        color: #DDE4E4;
+        position: absolute;
+        margin-top: 224px;
+        margin-left: 190px;
+    }
+    .last-ul{
+    font-family: 'roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    color: #F4F5F6;
+    position: absolute  ;
+    margin-left: 657px;
+    margin-top: 100px;
+    display: flex;
+    flex-direction: column;
+    cursor: pointer;
+    gap: 8px;
+    }
+    .txts{
+    font-family: 'roboto';
+    font-style: normal;
+    font-weight: 400;   
+    font-size: 14px;
+    line-height: 32px;
+    letter-spacing: 0.32px;
+    color: #6C8989;
+    cursor: pointer;
+    }
+    .last-ul2{
+        font-family: 'roboto';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 16px;
+        line-height: 24px;
+        color: #F4F5F6;
+        margin-left: 880px;
+        margin-top: 100px;
+        display: flex;
+        flex-direction: column;
+        cursor: pointer;
+        position: absolute;
+        gap: 8px;
+        }
+        .last-ul3{
+            font-family: 'roboto';
+            font-style: normal;
+            font-weight: 400;
+            font-size: 16px;
+            line-height: 24px;
+            color: #F4F5F6;
+            margin-left: 1100px;
+            margin-top: 100px;
+            display: flex;
+            flex-direction: column;
+            cursor: pointer;
+            position: absolute;
+            gap: 8px;
+            }
+            footer .last-line1{
+                width: 14.36px;
+                height: 4.79px;
+                position: absolute;
+                margin-top: 655.51px;
+                margin-left: 190px;
+            }
+            footer .last-line2{
+                width: 8.92px;
+                height: 4.79px;
+                position: absolute;
+                margin-top: 662.7px;
+                margin-left: 195.44px;
+            }
+            footer .last-line3{
+                width: 2.55px;
+                height: 19.17px;
+                position: absolute;
+                margin-top: 651.92px;
+                margin-left: 206.91px;
+            }
+            footer .align{
+                position: absolute;
+                margin-top: 649.54px;
+                margin-left: 216.79px;
+            }
+             .template{
+                font-family: 'roboto';
+                font-style: normal;
+                font-weight: 400;
+                font-size: 14px;
+                line-height: 16px;
+                letter-spacing: 0.28px;
+                color: #FFFFFF;
+                margin-top: 657px;
+                position: absolute;
+                margin-left: 272px;
+             }
+             .flowbase{
+                font-family: 'roboto';
+                font-style: normal;
+                font-weight: 400;
+                font-size: 13px;
+                line-height: 16px;
+                letter-spacing: 0.28px;
+                color: #ADC9A6;
+                position: absolute;
+                margin-top: 657px;
+                margin-left: 383px;
+                cursor: pointer;
+             }
+             .template2{
+                font-family: 'roboto';
+                font-style: normal;
+                font-weight: 400;
+                font-size: 14px;
+                line-height: 16px;
+                letter-spacing: 0.28px;
+                color: #FFFFFF;
+                margin-top: 657px;
+                position: absolute;
+                margin-left: 443px;
+             }
+             .flowbase2{
+                font-family: 'roboto';
+                font-style: normal;
+                font-weight: 400;
+                font-size: 13px;
+                line-height: 16px;
+                letter-spacing: 0.28px;
+                color: #ADC9A6;
+                position: absolute;
+                margin-top: 658px;
+                margin-left: 530px;
+                cursor: pointer;
+             }
+             .over{
+                font-family: 'roboto';
+                font-style: normal;
+                font-weight: 400;
+                font-size: 15px;
+                line-height: 24px;
+                letter-spacing: 0.32px;
+                color: #DDE4E4;
+                position: absolute;
+                margin-top: 650px;
+                margin-left: 1066px;
+                border: 1px solid #153C3C;
+                cursor: pointer;
+                border-radius: 4px;
+                background-color: #153C3C;
+                border: none;
+             }
+             .over2{
+                font-family: 'roboto';
+                font-style: normal;
+                font-weight: 400;
+                font-size: 15px;
+                line-height: 24px;
+                letter-spacing: 0.32px;
+                color: #DDE4E4;
+                position: absolute;
+                margin-top: 650px;
+                margin-left: 1182px;
+                border: 1px solid #153C3C;
+                cursor: pointer;
+                border-radius: 4px;
+                background-color: #153C3C;
+                border: none;
+             }
+        
